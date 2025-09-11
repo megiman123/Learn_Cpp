@@ -46,11 +46,6 @@ cpp-learning/
 └── exercises/              # Coding exercises and solutions
 ```
 
-## 🛠️ Development Environment
-
-**Compiler:** [Your compiler here, e.g., g++, clang++, MSVC]
-**IDE/Editor:** [Your IDE here, e.g., VS Code, CLion, Code::Blocks]
-**Operating System:** [Your OS here]
 
 ### Compilation Commands
 ```bash
@@ -65,11 +60,6 @@ g++ -Wall -Wextra -o program program.cpp
 ```
 
 ## 📖 Learning Resources
-
-### Books
-- [ ] "C++ Primer" by Stanley Lippman
-- [ ] "Effective C++" by Scott Meyers
-- [ ] "The C++ Programming Language" by Bjarne Stroustrup
 
 ### Online Resources
 - [ ] GeeksforGeeks(https://www.geeksforgeeks.org/cpp/c-plus-plus/)
@@ -86,11 +76,11 @@ g++ -Wall -Wextra -o program program.cpp
 
 ### Week 2: Control Flow
 - [ ] If-else statements
-- [ ] Switch statements
+- [ ] Switch statements 
 - [ ] For loops
 - [ ] While loops
 
-*[Continue updating as you progress...]*
+*[I will continue updatging as I progress]*
 
 ## 🎯 Current Focus
 
@@ -112,7 +102,6 @@ g++ -Wall -Wextra -o program program.cpp
 - Parameters and return types
 - Function overloading
 
-*[Add more concepts as you learn them]*
 
 ## 🔧 Useful Code Snippets
 
@@ -141,7 +130,7 @@ int main() {
 }
 ```
 
-## 🏆 Projects Completed
+## 🏆 Projects I want to do
 
 1. **Calculator** - Basic arithmetic operations
 2. **Number Guessing Game** - Random number generation and loops
@@ -173,6 +162,9 @@ This is a personal learning repository, but if you spot any errors or have sugge
 This repository is for educational purposes. Feel free to use any code snippets for your own learning.
 
 ---
+## check out my youtube channel if you are seeing this
+
+https://youtu.be/dQw4w9WgXcQ?si=LWrTNWpsPad8lJ2T
 
 **Happy Coding!** 💻✨
 
