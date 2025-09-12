@@ -87,7 +87,7 @@ g++ -Wall -Wextra -o program program.cpp
 **Topic:** [Current topic you're learning]
 **Goals for this week:**
 - start C++
-- complete basics and start control flow
+- complete 10 videos of bro code
 - Practice and read material from geeks for geeks
 
 ## 💡 Key Concepts Learned
