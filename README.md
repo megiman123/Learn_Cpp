@@ -4,8 +4,8 @@ Welcome to my C++ learning repository! This is where I document my progress, sto
 
 ## 📚 Learning Goals
 
-- [ ] Master C++ fundamentals (variables, data types, operators)
-- [ ] Understand control structures (loops, conditionals)
+- [x] Master C++ fundamentals (variables, data types, operators)
+- [x] Understand control structures (loops, conditionals)
 - [ ] Learn functions and scope
 - [ ] Grasp Object-Oriented Programming concepts
 - [ ] Explore memory management (pointers, references)
@@ -76,7 +76,7 @@ g++ -Wall -Wextra -o program program.cpp
 
 ### Week 2: Control Flow
 - [x] If-else statements
-- [x]Switch statements 
+- [x] Switch statements 
 - [x] For loops
 - [ ] While loops
 
@@ -168,6 +168,6 @@ https://youtu.be/dQw4w9WgXcQ?si=LWrTNWpsPad8lJ2T
 
 **Happy Coding!** 💻✨
 
-*Last updated: [09-10-2025]*
+*Last updated: [14-10-2025]*
 
 
