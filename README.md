@@ -146,8 +146,8 @@ int main() {
 
 ## 📊 Progress Tracker
 
-- **Basics:** 50% Complete ✅
-- **Control Flow:** 0% Complete  
+- **Basics:** 100% Complete ✅
+- **Control Flow:** 100% Complete  
 - **Functions:** 0% Complete
 - **OOP:** 0% Complete
 - **Memory Management:** 0% Complete
