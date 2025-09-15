@@ -78,7 +78,7 @@ g++ -Wall -Wextra -o program program.cpp
 - [x] If-else statements
 - [x] Switch statements 
 - [x] For loops
-- [ ] While loops
+- [x] While loops
 
 *[I will continue updatging as I progress]*
 
