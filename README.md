@@ -80,6 +80,12 @@ g++ -Wall -Wextra -o program program.cpp
 - [x] For loops
 - [x] While loops
 
+### Week 3: Functions
+
+- [x] Basic-functions
+- [ ] Overloading
+- [ ] Recursion
+
 *[I will continue updatging as I progress]*
 
 ## 🎯 Current Focus
@@ -148,7 +154,7 @@ int main() {
 
 - **Basics:** 100% Complete ✅
 - **Control Flow:** 100% Complete  
-- **Functions:** 0% Complete
+- **Functions:** 33%% Complete
 - **OOP:** 0% Complete
 - **Memory Management:** 0% Complete
 - **STL:** 0% Complete
