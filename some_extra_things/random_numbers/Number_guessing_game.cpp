@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+#include <typeinfo>
 using namespace std;
 
 int main() {    
@@ -15,7 +16,10 @@ int main() {
         cout << "Enter a guess between 1 and 100: ";
         cin >> guess;
         tries++;
-        if (guess > num){
+        if (guess > 100 || guess < 1 ){
+            cout<<"Invalid guess. Try again."<< endl;
+        }
+        else if (guess > num){
             cout<<"To high!"<< endl;
         }
         else if(guess < num){
