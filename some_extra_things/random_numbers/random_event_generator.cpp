@@ -16,6 +16,12 @@ int main(){
         case 5:cout << "You win a bugatti chiron" <<'\n';
             break;    
     }
-
+    for (int i= 0; i < 5; i++){ 
+     cout << endl;
+    }
+    cout << "I cant actually give you this, I dont have the money :(" << endl;
+    for (int i= 0; i < 5; i++){ 
+     cout << endl;
+    }
     return 0;
 }
