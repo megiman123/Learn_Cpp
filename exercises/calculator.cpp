@@ -1,9 +1,8 @@
 #include <iostream>
 using namespace std;
-
 int main(){
     cout << "------------MY CALCULATOR------------"<<endl;
-    long long a, b;  // Changed from int to long long
+    double a,b;
     char op;
     
     cout << "Enter the value of a : ";
