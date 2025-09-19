@@ -42,6 +42,8 @@ cpp-learning/
 │   ├── containers/
 │   ├── algorithms/
 │   └── iterators/
+├── Some_extra_things/
+│     └── random_numbers/
 ├── projects/               # Practice projects
 └── exercises/              # Coding exercises and solutions
 ```
