@@ -14,12 +14,13 @@ int main() {
     cout << "-----------Number guessing game-----------" << endl;
     do{
         cout << "Enter a guess between 1 and 100: ";
-        cin >> guess;
-        tries++;
+            cin >> guess;
         if (guess > 100 || guess < 1 ){
             cout<<"Invalid guess. Try again."<< endl;
         }
-        else if (guess > num){
+        else{
+        tries++ ;
+        if (guess > num){
             cout<<"To high!"<< endl;
         }
         else if(guess < num){
@@ -27,7 +28,7 @@ int main() {
         }
         else{
             cout<<"Correct! You win!"<< endl;
-            cout<<"You took "<<tries<<" tries to guess the number!"<< endl;
+            cout<<"You took "<<tries<<" tries to guess the number!"<< endl;}
         }
     }while(guess != num);
     cout<<"------------------------------------------"<< endl;
