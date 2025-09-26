@@ -85,7 +85,7 @@ g++ -Wall -Wextra -o program program.cpp
 ### Week 3: Functions
 
 - [x] Basic-functions
-- [ ] Overloading
+- [x] Overloading
 - [ ] Recursion
 
 *[I will continue updatging as I progress]*
